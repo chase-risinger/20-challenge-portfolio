@@ -15,7 +15,8 @@ function Portfolio() {
                             alt="blog it website" style={{ width: "70%" }}
                         />
                         </a>
-                        <h4>Blog it!</h4><br /><br />
+                        <h4>Blog it!</h4>
+                        <a href="https://github.com/chase-risinger/14-challenge-mvc">github repo</a><br /><br />
                     </div>
                     <div className="row">
                         <a href="https://secret-forest-66148.herokuapp.com/"> <img
@@ -23,7 +24,8 @@ function Portfolio() {
                             alt="git-stuff website" style={{ width: "70%" }}
                         />
                         </a>
-                        <h4>Git-Stuff!</h4><br /><br />
+                        <h4>Git-Stuff!</h4>
+                        <a href="https://github.com/chase-risinger/15-git-stuff">github repo</a><br /><br />
                     </div>
                     <div className="row">
                         <a href="https://dianetritchler.github.io/Project1-Group6/"> <img
@@ -31,7 +33,9 @@ function Portfolio() {
                             alt="git to the show website" style={{ width: "70%" }}
                         />
                         </a>
-                        <h4>Git to the show!</h4><br /><br />
+                        <h4>Git to the show!</h4>
+                        <a href="https://github.com/DianeTritchler/Project1-Group6">github repo</a>
+                        <br /><br />
                     </div>
                 </div>
 
@@ -44,7 +48,10 @@ function Portfolio() {
                         />
                         </a>
 
-                        <h4>Note Taker</h4><br /><br />
+                        <h4>Note Taker</h4>
+                        <a href="https://github.com/chase-risinger/11-note-taker">github repo</a>
+                        <br /><br />
+
                     </div>
                     <div className="row">
                         <a href="https://gist.github.com/chase-risinger/1e7b03548dbe615cf2788c490dbbf26d"> <img
@@ -52,7 +59,9 @@ function Portfolio() {
                             alt="reg-ex anaylsis gist" style={{ width: "70%" }}
                         />
                         </a>
-                        <h4>Reg-ex Analysis</h4><br /><br />
+                        <h4>Reg-ex Analysis</h4>
+                        <a href="https://gist.github.com/chase-risinger/1e7b03548dbe615cf2788c490dbbf26d">github repo</a>
+                        <br /><br />
                     </div>
                     <div className="row">
                         <a href="https://chase-risinger.github.io/weather-report/"> <img
@@ -60,7 +69,9 @@ function Portfolio() {
                             alt="weather report app" style={{ width: "70%" }}
                         />
                         </a>
-                        <h4>Weather Report</h4><br /><br />
+                        <h4>Weather Report</h4>
+                        <a href="https://github.com/chase-risinger/weather-report">github repo</a>
+                        <br /><br />
                     </div>
                 </div>
             </div>
